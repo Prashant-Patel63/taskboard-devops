@@ -22,3 +22,4 @@ def home():
 @app.route("/health")
 def health():
     return jsonify(status="ok")
+APP_VERSION = '1.0.0' 
