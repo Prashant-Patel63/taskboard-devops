@@ -1,1 +1,1 @@
-Line from B
+Resolved both branches
